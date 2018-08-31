@@ -52,7 +52,7 @@ library(gridExtra)
 \renewcommand{\labelitemi}{$-$}
 \setkeys{Gin}{width=0.8\textwidth}
 
-\section{*How to Learn GitHub}
+\section*{How to Learn GitHub}
 
 GitHub is great. You never lose anything!
 
